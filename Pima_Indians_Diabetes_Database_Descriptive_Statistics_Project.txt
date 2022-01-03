@@ -1,0 +1,34 @@
+
+AIM: Predict the onset of diabetes based on diagnostic measures. 
+Source :This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
+Objective = objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset.
+
+
+Columns of the dataset:
+
+    Pregnancies: Number of times pregnant
+    Glucose: Plasma glucose concentration 2 hours in an oral glucose tolerance test
+    Blood Pressure: Diastolic blood pressure (mm Hg)
+    Skin Thickness: Triceps skin fold thickness (mm
+    Insulin: 2-Hour serum insulin (mu U/ml)
+    BMI: Body mass index (weight in kg/(height in m)^2) 
+    Diabetes Pedigree Function: Diabetes pedigree function
+    Age: Age (years)
+    Outcome: Class variable (0 or 1) 0 mean non-diabetic and 1 means diabetic
+
+Analysis:
+
+    1. Calculate appropriate measures of central tendency for Glucose and outcome column only?
+    2. Please provide 5 points data summaries for required columns?
+    3. Please create an appropriate plot to examine the relationship between Age and Glucose.
+    4. Please create an appropriate plot to see the distribution of Outcome variable?
+    5. Please examine the distribution of numerical data and explain which variable normally distributed and which variable is seems to be skewed. Please also tell the direction of skewness.
+    6. Please calculate the skewness value and divide variables into symmetrical, moderately skewed and highly skewed.
+    7. Please create appropriate plot to examine the outliers of these variables. Please name the variables which have outliers.
+    8. What should be the measures of central tendency and dispersion for skewed data?  
+    9. Please do the basic exploration of data and explain missing values, number of rows and columns and data types in statistical term.
+
+Submission:
+
+Please push the assignment into your github account and provide the link of github account.
+Remember when you are pushing it into your github account, it should seem like a project not as a question answer session. So there will be one ipynb file for submission and another for github.
